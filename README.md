@@ -1,2 +1,2 @@
-# c--roadpath
-C++ concepts and clarifications
+# CPP Concepts and operations
+Educational tutorial
